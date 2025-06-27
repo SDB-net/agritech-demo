@@ -1,6 +1,8 @@
 # agritech-demo
 soucecode
 
-Author-sagar biradar
+Author-sagar biradar 
 
-Reason soucrecode for project agrinet
+Version : 1.01
+
+Reason soucrecode for project agrinet.com
